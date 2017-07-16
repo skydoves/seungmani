@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">승마니</string>
+	<string name="kakao_app_key">6795ed1cd1d0801f7cfbb3851463acb4</string>
+    <string name="kakao_scheme">kakao6795ed1cd1d0801f7cfbb3851463acb4</string>
+    <string name="kakaolink_host">kakaolink</string>
+    
+</resources>

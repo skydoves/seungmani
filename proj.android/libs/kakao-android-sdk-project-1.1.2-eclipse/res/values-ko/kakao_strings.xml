@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- for usermgmt -->
+    <string name="com_kakao_login_button">카카오계정으로 로그인</string>
+    <string name="com_kakao_logout_button">로그아웃</string>
+    <string name="com_kakao_confirm_logout">이 앱을 로그아웃 하시겠습니까?</string>
+    <string name="com_kakao_ok_button">확인</string>
+    <string name="com_kakao_cancel_button">취소</string>
+    <string name="com_kakao_unlink_button">탈퇴</string>
+    <string name="com_kakao_confirm_unlink">이 앱을 탈퇴하시겠습니까?</string>
+    <string name="com_kakao_profile_userId">카카오 사용자 ID</string>
+
+    <string name="com_kakao_kakaotalk_account">카카오톡으로 간편로그인</string>
+    <string name="com_kakao_kakaostory_account">카카오스토리로 간편로그인</string>
+    <string name="com_kakao_other_kakaoaccount">다른 카카오계정으로 로그인</string>
+    <string name="com_kakao_account_cancel">취소</string>
+    <string-array name="com_kakao_accounts_array">
+        <item>@string/com_kakao_kakaotalk_account</item>
+        <item>@string/com_kakao_other_kakaoaccount</item>
+        <item>@string/com_kakao_account_cancel</item>
+    </string-array>
+
+</resources>

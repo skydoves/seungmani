@@ -1,0 +1,22 @@
+﻿빌드 시작: 2015-02-07 오후 1:54:17
+     1>4 노드의 "C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Windows\v7.1A\include" /I..\Include /I"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\..\..\cocos" /I"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\..\..\cocos\platform\win32" /I"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\..\..\cocos\platform\desktop" /I"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\..\..\external\glfw3\include\win32" /I"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\win32\MciPlayer.cpp ..\win32\SimpleAudioEngine.cpp
+         MciPlayer.cpp
+         SimpleAudioEngine.cpp
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\base\ccutf8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\win32\SimpleAudioEngine.cpp)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\2d\cclabel.h(276): warning C4244: 'return' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (..\win32\SimpleAudioEngine.cpp)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\physics\ccphysicsbody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\win32\SimpleAudioEngine.cpp)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\physics\ccphysicsshape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\win32\SimpleAudioEngine.cpp)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\win32\SimpleAudioEngine.cpp)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\deprecated\ccdeprecated.h(1023): warning C4996: 'cocos2d::GL::deleteTextureN': deprecated로 선언되었습니다. (..\win32\SimpleAudioEngine.cpp)
+                 c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\renderer\ccglstatecache.h(132) : 'cocos2d::GL::deleteTextureN' 선언을 참조하십시오.
+       Lib:
+         C:\Program Files\VC\bin\Lib.exe /OUT:"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\proj.win32\Debug.win32\libAudio.lib" /NOLOGO Debug.win32\MciPlayer.obj
+         Debug.win32\SimpleAudioEngine.obj
+         CocosDenshion.vcxproj -> C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\proj.win32\Debug.win32\libAudio.lib
+     1>"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:04:52.27

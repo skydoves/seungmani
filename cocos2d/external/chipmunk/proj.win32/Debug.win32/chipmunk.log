@@ -1,0 +1,128 @@
+﻿빌드 시작: 2015-02-07 오후 1:54:15
+     1>3 노드의 "C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\proj.win32\chipmunk.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Windows\v7.1A\include" /I..\include\chipmunk /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4068 /wd4996 /analyze- /errorReport:prompt ..\src\chipmunk.c ..\src\cpArbiter.c ..\src\cpArray.c ..\src\cpBB.c ..\src\cpBBTree.c ..\src\cpBody.c ..\src\cpCollision.c ..\src\cpHashSet.c ..\src\cpPolyShape.c ..\src\cpShape.c ..\src\cpSpace.c ..\src\cpSpaceComponent.c ..\src\cpSpaceHash.c ..\src\cpSpaceQuery.c ..\src\cpSpaceStep.c ..\src\cpSpatialIndex.c ..\src\cpSweep1D.c ..\src\cpVect.c ..\src\constraints\cpConstraint.c ..\src\constraints\cpDampedRotarySpring.c ..\src\constraints\cpDampedSpring.c ..\src\constraints\cpGearJoint.c ..\src\constraints\cpGrooveJoint.c ..\src\constraints\cpPinJoint.c ..\src\constraints\cpPivotJoint.c ..\src\constraints\cpRatchetJoint.c ..\src\constraints\cpRotaryLimitJoint.c ..\src\constraints\cpSimpleMotor.c ..\src\constraints\cpSlideJoint.c
+         chipmunk.c
+         cpArbiter.c
+         cpArray.c
+         cpBB.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpArbiter.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpArbiter.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBB.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBB.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpArray.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpArray.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\chipmunk.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\chipmunk.c)
+         cpBBTree.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBBTree.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBBTree.c)
+         cpBody.c
+         cpCollision.c
+         cpHashSet.c
+         cpPolyShape.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBody.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpBody.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpCollision.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpCollision.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\src\cpcollision.c(75): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다.
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpHashSet.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpHashSet.c)
+         cpShape.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpPolyShape.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpPolyShape.c)
+         cpSpace.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpShape.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpShape.c)
+         cpSpaceComponent.c
+         cpSpaceHash.c
+         cpSpaceQuery.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpace.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpace.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceQuery.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceQuery.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceHash.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceHash.c)
+         cpSpaceStep.c
+         cpSpatialIndex.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceStep.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceStep.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpatialIndex.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpatialIndex.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceComponent.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSpaceComponent.c)
+         cpSweep1D.c
+         cpVect.c
+         cpConstraint.c
+         cpDampedRotarySpring.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSweep1D.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpSweep1D.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpConstraint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpConstraint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpVect.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\cpVect.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpDampedRotarySpring.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpDampedRotarySpring.c)
+         cpDampedSpring.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpDampedSpring.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpDampedSpring.c)
+         cpGearJoint.c
+         cpGrooveJoint.c
+         cpPinJoint.c
+         cpPivotJoint.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpGearJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpGearJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpPivotJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpPivotJoint.c)
+         cpRatchetJoint.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpPinJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpGrooveJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpPinJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpGrooveJoint.c)
+         cpRotaryLimitJoint.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpRatchetJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpRatchetJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpRotaryLimitJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpRotaryLimitJoint.c)
+         cpSimpleMotor.c
+         cpSlideJoint.c
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpSimpleMotor.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpSimpleMotor.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(105): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpSlideJoint.c)
+     1>c:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\include\chipmunk\cpbb.h(111): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다. (..\src\constraints\cpSlideJoint.c)
+       Lib:
+         C:\Program Files\VC\bin\Lib.exe /OUT:"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\proj.win32\Debug.win32\libchipmunk.lib" /NOLOGO Debug.win32\chipmunk.obj
+         Debug.win32\cpArbiter.obj
+         Debug.win32\cpArray.obj
+         Debug.win32\cpBB.obj
+         Debug.win32\cpBBTree.obj
+         Debug.win32\cpBody.obj
+         Debug.win32\cpCollision.obj
+         Debug.win32\cpHashSet.obj
+         Debug.win32\cpPolyShape.obj
+         Debug.win32\cpShape.obj
+         Debug.win32\cpSpace.obj
+         Debug.win32\cpSpaceComponent.obj
+         Debug.win32\cpSpaceHash.obj
+         Debug.win32\cpSpaceQuery.obj
+         Debug.win32\cpSpaceStep.obj
+         Debug.win32\cpSpatialIndex.obj
+         Debug.win32\cpSweep1D.obj
+         Debug.win32\cpVect.obj
+         Debug.win32\cpConstraint.obj
+         Debug.win32\cpDampedRotarySpring.obj
+         Debug.win32\cpDampedSpring.obj
+         Debug.win32\cpGearJoint.obj
+         Debug.win32\cpGrooveJoint.obj
+         Debug.win32\cpPinJoint.obj
+         Debug.win32\cpPivotJoint.obj
+         Debug.win32\cpRatchetJoint.obj
+         Debug.win32\cpRotaryLimitJoint.obj
+         Debug.win32\cpSimpleMotor.obj
+         Debug.win32\cpSlideJoint.obj
+         chipmunk.vcxproj -> C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\proj.win32\Debug.win32\libchipmunk.lib
+     1>"C:\cocos2d-x-3.1\cocos2d-x-3.1\tools\cocos2d-console\bin\seungmani\cocos2d\external\chipmunk\proj.win32\chipmunk.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:51.40

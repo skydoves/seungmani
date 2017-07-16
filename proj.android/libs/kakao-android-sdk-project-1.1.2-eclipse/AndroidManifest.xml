@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.kakao.android.sdk">
+
+    <!--<application android:allowBackup="true"-->
+                 <!--android:label="@string/app_name"-->
+                 <!--android:icon="@drawable/ic_launcher"-->
+        <!-->-->
+
+    <!--</application>-->
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+</manifest>

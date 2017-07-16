@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <org.cocos2dx.lib.Cocos2dxGLSurfaceView
+        android:id="@+id/game_gl_surface"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+    />
+           
+     <EditText
+               android:id="@+id/edit01"
+               android:layout_width="200dp"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="225dp"
+               android:layout_marginTop="130dp"
+               android:ems="10"
+               android:hint="                이름"
+               android:background = "@drawable/editbox"
+               android:maxLength="7"
+               android:paddingBottom="2pt"
+               android:paddingLeft="2pt"
+               android:paddingTop="2pt"
+               android:singleLine="true"
+               android:textSize="20dp" 
+               android:visibility="gone"
+               />
+     
+       <WebView 
+       android:id="@+id/myWebView"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:visibility="gone"
+       />
+
+       <ProgressBar
+           android:id="@+id/progressBar1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_centerHorizontal="true"
+           android:layout_marginTop="152dp" 
+           android:visibility="gone"/>
+
+       <com.google.android.gms.ads.AdView
+           xmlns:ads="http://schemas.android.com/apk/res-auto"
+           android:id="@+id/adView"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_alignParentBottom="true"
+           android:layout_alignParentLeft="true"
+           android:visibility="gone"
+           app:adSize="BANNER"
+           app:adUnitId="ca-app-pub-6857204017648455/8791630920" >
+       </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
