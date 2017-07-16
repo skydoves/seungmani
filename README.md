@@ -1,5 +1,6 @@
 # Seungmani
-Cocos-2dx c++ win32 and mobile patform simple casual game in 2015.
+This simple project is cocos-2dx c++ multi-patform(win32, android, ios, linux) game in Jan 2015.
+There are a title, main scene, two mini games scenes.
 
 ![screenshot_2015-07-29-01-44-52](https://user-images.githubusercontent.com/24237865/27985807-ac0cd704-642d-11e7-8526-1af9e13f9e3a.png)
 
